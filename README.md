@@ -30,6 +30,7 @@
 
 ### 📌 Projets phares
 
+- * 📄 [PolicyBot](https://github.com/benabdallahyoussef1209/Policty_Bot_Stage_GTI_2026) — Assistant documentaire intelligent avec citation de sources (LangChain, ChromaDB, Ollama/Qwen2.5, Streamlit)
 - ❤️ **[Heart Disease Prediction](https://github.com/benabdallahyoussef1209/machine-learning-heart-disease)** — Prédiction de maladies cardiaques (Logistic Regression, 82% accuracy)
 - 🩺 **[Diabetes Prediction](https://github.com/benabdallahyoussef1209/Machine-Learning-diabete-prediction)** — Détection du diabète à partir de données médicales (SVM)
 - 🌤️ **[WeatherAI](https://github.com/benabdallahyoussef1209/weather-ai-chatbot)** — Chatbot météo intelligent (React + Groq/LLaMA 3) — [démo live](https://weatherai-pro-bay.vercel.app)
